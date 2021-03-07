@@ -7,15 +7,17 @@ permalink: /about/ #I should problably delete this...
 
 
 ## <strong> Felice Henriquez </strong>
-<br>	
 
 <strong> Summary </strong>
 <pre>
 * Strong ability to work independently with minimal guidance, dedicated to meeting deadlines
 * Creative thinker, talent for analyzing and adapting to challenging situations  
+
+
+
+
 </pre>	
 
-<br>
 
 <strong> Education </strong>
 <pre>
@@ -30,7 +32,7 @@ Blackboard, Help Desk Customer Service Advisor, remote                  July 202
 * <small>Accurately documented information to web-based ticketing systems, and escalated unique issues </small> 
 * <small>Communicated with students regarding their process through the secondary education life cycle</small> 
   
-UMBC Game Developer’s Club, Secretary, Hilltop, MD	                Jan 2019- May 2020 
+UMBC Game Developer’s Club, Secretary, Hilltop, MD	                    Jan 2019- May 2020 
 * <small>Welcomed and guided new club members online </small> 
 * <small>Doubled the number of followers on YouTube, Twitter, and Instagram by designing attractive thumbnail images for posts </small> 
 * <small>Cooperated with the Web Master to redesign the club website</small> 

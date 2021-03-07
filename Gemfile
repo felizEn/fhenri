@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+#bundle exec jekyll serve --livereload
+
 gem "bundler"
 gem "jekyll", ">= 3.8.4"
 gem "jekyll-paginate"

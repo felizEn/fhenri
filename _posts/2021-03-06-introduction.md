@@ -12,29 +12,30 @@ SSH is a network protocol used to communicate with computers securely by encrypt
 
 <strong>What are some of its uses?  </strong>
 
--Remote access
-	-Log in to another computer from your own device. (Expect to do this 24/7 for network 	infrastructure management)
+<ul>
+<li>-Remote access</li>
+	<p> Log in to another computer from your own device. (Expect to do this 24/7 for network infrastructure management) </p>
 
 
--Tunneling 
-	-Used to allow nonnative protocols to run through networks that normally wouldn’t 	support them.
-	-Provides security over an unsafe network
-	-It can also be used to forward packets to a different port (aka port forwarding)
-
-
-
--Transfer files securely
-	-The SFTP (SSH File transfer Protocol) provides a safe way to access, manage, and 	transfer files. 
-
-
-While there some vulnerabilities found in the ssh protocol, as long as its configured appropriately, it should still provide you a strong protection.
+<li>-Tunneling </li>
+<p> Tunneling is used to allow nonnative protocols to run through networks that normally wouldn’t support them. When you forward packets to different ports after tunneling, it is called "Port Forwarding". </p>
 
 
 
-Sources
-https://blog.robertelder.org/what-is-ssh/
-https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work
-https://www.oreilly.com/library/view/ssh-the-secure/0596008953/ch01s01.html
-https://www.comparitech.com/blog/information-security/ssh-encryption/
-https://www.youtube.com/watch?v=AtuAdk4MwWw
+<li>Transfer files securely </li>
+<p>The SFTP (SSH File transfer Protocol) provides a safe way to access, manage, and transfer files.  </p>
+
+</ul>
+While there some vulnerabilities found in the ssh protocol, as long as it is configured appropriately, it should still provide you a strong protection.
+
+
+
+<br>
+
+<strong>Sources </strong> <br>
+<small>https://blog.robertelder.org/what-is-ssh/ </small> 
+<small>https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work</small> 
+<small>https://www.oreilly.com/library/view/ssh-the-secure/0596008953/ch01s01.html</small> 
+<small>https://www.comparitech.com/blog/information-security/ssh-encryption/</small> 
+<small>https://www.youtube.com/watch?v=AtuAdk4MwWw</small> 
 

@@ -5,7 +5,28 @@ permalink: /about/ #I should problably delete this...
 ---
 
 
+ [download resume](https://felizen.github.io/techblog/assets/FeliceHResume2021.pdf)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--- 
+
+old 3/16/21
 ## <strong> Felice Henriquez </strong>
 
 <strong> Summary </strong>
@@ -42,7 +63,7 @@ X8-Information Technology and Services, Intern, Hanover, MD	        July 2019- N
 * <small>Researched and tested software such as Ansible and Docker for the company’s Infrastructure as Code project</small> 
 * <small>Searched for bugs during the company’s CTF (Capture the Flag) workshop</small> 
 </pre>  
-
+--->
 
 <!--- 
 ## <strong> Felice Henriquez </strong>

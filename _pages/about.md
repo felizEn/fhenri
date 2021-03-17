@@ -5,7 +5,7 @@ permalink: /about/ #I should problably delete this...
 ---
 
 
- [download resume](https://felizen.github.io/techblog/assets/FeliceHResume2021.pdf)
+ [download resume](https://felizen.github.io/techblog/assets/feliceresume.pdf)
 
 
 

@@ -13,12 +13,12 @@ SSH is a network protocol used to communicate with computers securely by encrypt
 <strong>What are some of its uses?  </strong>
 
 <ul>
-<li>-Remote access</li>
+<li>Remote access</li>
 	<p> Log in to another computer from your own device. (Expect to do this 24/7 for network infrastructure management) </p>
 
 
-<li>-Tunneling </li>
-<p> Tunneling is used to allow nonnative protocols to run through networks that normally wouldn’t support them. When you forward packets to different ports after tunneling, it is called "Port Forwarding". </p>
+<li>Tunneling </li>
+<p> Tunneling is used to allow nonnative protocols to run through networks that normally would not support them. When you forward packets to different ports after tunneling, it is called "Port Forwarding". </p>
 
 
 
